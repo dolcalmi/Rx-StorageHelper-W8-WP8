@@ -13,7 +13,7 @@ namespace DCM.Helpers
 {
   /// <summary>
   /// Reactive storage helper
-  /// created by: @dolcalmi
+  /// created by: @dolcalmi -_-
   /// </summary>
   public static class StorageHelper
   {

@@ -6,3 +6,5 @@ A small class to help with storage when you are using reactive extensions. Works
 Basically is a "common helper" class used in my projects to save models and streams (Eg: images) into local storage. 
 
 Hope it helps ;)
+
+dolcalmi -_-
